@@ -1,0 +1,33 @@
+{
+	"status": 0,
+	"result": [
+		{
+			"songName": "知否知否",
+			"src": "知否知否.mp3",
+			"author": "郁可唯",
+			"img":"知否知否.jpg",
+			"lrc":"郁可唯 - 知否知否.lrc"
+		},
+		{
+			"songName": "回忆的沙漏",
+			"src": "回忆的沙漏.mp3",
+			"author": "邓紫棋",
+			"img":"回忆的沙漏.jpg",
+			"lrc":"邓紫棋 - 回忆的沙漏.lrc"
+		},
+		{
+			"songName": "差不多先生",
+			"src": "差不多先生.mp3",
+			"author": "Hot Dog",
+			"img":"差不多先生.jpg",
+			"lrc":"MC HOT DOG - 差不多先生.lrc"
+		},
+		{
+			"songName": "鱼",
+			"src": "鱼.mp3",
+			"author": "陈绮贞",
+			"img":"鱼.jpg",
+			"lrc":"陈绮贞 - 鱼.lrc"
+		}
+	]
+}
